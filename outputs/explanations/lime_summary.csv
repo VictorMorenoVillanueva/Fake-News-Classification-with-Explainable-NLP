@@ -1,0 +1,4 @@
+test_index,true_label,statement,explanation_file
+0,real,Building a wall on the U.S.-Mexico border will take literally years.,C:\Users\victor.moreno.villan\Desktop\I2R\outputs\explanations\lime_test_0.html
+1,fake,Wisconsin is on pace to double the number of layoffs this year.,C:\Users\victor.moreno.villan\Desktop\I2R\outputs\explanations\lime_test_1.html
+2,fake,Says John McCain has done nothing to help the vets.,C:\Users\victor.moreno.villan\Desktop\I2R\outputs\explanations\lime_test_2.html
